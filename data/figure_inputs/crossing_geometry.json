@@ -1,0 +1,88 @@
+{
+ "main_table_clean": [
+  {
+   "facerel": "opp_face",
+   "dirrel": "opp_dir",
+   "span": "crossing",
+   "pairs": 1749,
+   "odd": 1735
+  },
+  {
+   "facerel": "opp_face",
+   "dirrel": "opp_dir",
+   "span": "disjoint",
+   "pairs": 2759,
+   "odd": 0
+  },
+  {
+   "facerel": "opp_face",
+   "dirrel": "opp_dir",
+   "span": "nested",
+   "pairs": 1383,
+   "odd": 1374
+  },
+  {
+   "facerel": "opp_face",
+   "dirrel": "same_dir",
+   "span": "crossing",
+   "pairs": 29,
+   "odd": 29
+  },
+  {
+   "facerel": "opp_face",
+   "dirrel": "same_dir",
+   "span": "disjoint",
+   "pairs": 125,
+   "odd": 0
+  },
+  {
+   "facerel": "opp_face",
+   "dirrel": "same_dir",
+   "span": "nested",
+   "pairs": 55,
+   "odd": 52
+  },
+  {
+   "facerel": "same_face",
+   "dirrel": "opp_dir",
+   "span": "crossing",
+   "pairs": 599,
+   "odd": 59
+  },
+  {
+   "facerel": "same_face",
+   "dirrel": "opp_dir",
+   "span": "disjoint",
+   "pairs": 78,
+   "odd": 0
+  },
+  {
+   "facerel": "same_face",
+   "dirrel": "opp_dir",
+   "span": "nested",
+   "pairs": 33,
+   "odd": 31
+  },
+  {
+   "facerel": "same_face",
+   "dirrel": "same_dir",
+   "span": "crossing",
+   "pairs": 68,
+   "odd": 4
+  },
+  {
+   "facerel": "same_face",
+   "dirrel": "same_dir",
+   "span": "disjoint",
+   "pairs": 3149,
+   "odd": 4
+  },
+  {
+   "facerel": "same_face",
+   "dirrel": "same_dir",
+   "span": "nested",
+   "pairs": 7,
+   "odd": 7
+  }
+ ]
+}

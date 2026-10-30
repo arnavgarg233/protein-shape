@@ -1,0 +1,20 @@
+{
+ "nf": "e4v59K4",
+ "T_star": 0.9187270440251573,
+ "Tf": 0.9986163522012579,
+ "trel": 0.92,
+ "Q_native_mean": 0.7744107744107744,
+ "Q_native_p05": 0.6714646464646464,
+ "Qthr": 0.69,
+ "Gthr": 0.05,
+ "key_ij": [
+  54,
+  83
+ ],
+ "key_tail": "N",
+ "key_g0": -0.2008884933412862,
+ "entangled": false,
+ "gkey_native_sd": 0.03979421508156225,
+ "n_unfolded_starts": 108,
+ "n_close_contacts": 23
+}

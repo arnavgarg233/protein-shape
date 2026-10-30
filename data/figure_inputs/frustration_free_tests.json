@@ -1,0 +1,149 @@
+{
+ "PRIMARY_T3_7strand": {
+  "strata": [
+   {
+    "stratum": "('1_7',)",
+    "n_a": 3,
+    "n_b": 5,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('1_8',)",
+    "n_a": 1,
+    "n_b": 5,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('2_3',)",
+    "n_a": 1,
+    "n_b": 82,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.04878048780487805
+   },
+   {
+    "stratum": "('2_4',)",
+    "n_a": 1,
+    "n_b": 134,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.09701492537313433
+   },
+   {
+    "stratum": "('2_5',)",
+    "n_a": 4,
+    "n_b": 124,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.056451612903225805
+   },
+   {
+    "stratum": "('2_6',)",
+    "n_a": 7,
+    "n_b": 43,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.046511627906976744
+   },
+   {
+    "stratum": "('2_7',)",
+    "n_a": 10,
+    "n_b": 12,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('2_8',)",
+    "n_a": 17,
+    "n_b": 14,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('3_3',)",
+    "n_a": 2,
+    "n_b": 77,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.06493506493506493
+   },
+   {
+    "stratum": "('3_4',)",
+    "n_a": 1,
+    "n_b": 113,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.05309734513274336
+   },
+   {
+    "stratum": "('3_5',)",
+    "n_a": 4,
+    "n_b": 131,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.03816793893129771
+   },
+   {
+    "stratum": "('3_6',)",
+    "n_a": 13,
+    "n_b": 47,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('3_7',)",
+    "n_a": 28,
+    "n_b": 22,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.045454545454545456
+   },
+   {
+    "stratum": "('3_8',)",
+    "n_a": 21,
+    "n_b": 15,
+    "frac_pos_a": 0.047619047619047616,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('4_3',)",
+    "n_a": 1,
+    "n_b": 39,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.1282051282051282
+   },
+   {
+    "stratum": "('4_5',)",
+    "n_a": 4,
+    "n_b": 52,
+    "frac_pos_a": 0.5,
+    "frac_pos_b": 0.038461538461538464
+   },
+   {
+    "stratum": "('4_6',)",
+    "n_a": 5,
+    "n_b": 17,
+    "frac_pos_a": 0.2,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('4_7',)",
+    "n_a": 3,
+    "n_b": 6,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('5_5',)",
+    "n_a": 2,
+    "n_b": 12,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   },
+   {
+    "stratum": "('5_6',)",
+    "n_a": 2,
+    "n_b": 4,
+    "frac_pos_a": 0.0,
+    "frac_pos_b": 0.0
+   }
+  ]
+ },
+ "PRIMARY_binary_LH_ge_1": {
+  "exposed": "4/130"
+ }
+}

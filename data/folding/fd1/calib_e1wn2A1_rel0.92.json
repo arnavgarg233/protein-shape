@@ -1,0 +1,20 @@
+{
+ "nf": "e1wn2A1",
+ "T_star": 1.0182490566037736,
+ "Tf": 1.1067924528301887,
+ "trel": 0.92,
+ "Q_native_mean": 0.8251866151866152,
+ "Q_native_p05": 0.7258687258687259,
+ "Qthr": 0.74,
+ "Gthr": 0.05,
+ "key_ij": [
+  20,
+  83
+ ],
+ "key_tail": "C",
+ "key_g0": -0.7366475284016722,
+ "entangled": true,
+ "gkey_native_sd": 0.05015588629633802,
+ "n_unfolded_starts": 108,
+ "n_close_contacts": 8
+}

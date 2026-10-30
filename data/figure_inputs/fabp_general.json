@@ -1,0 +1,10 @@
+{
+ "a_overlap": {
+  "exposed": 643,
+  "exposed_with_generalised_FabP": 0
+ },
+ "V1_murata_167": {
+  "M24_unsat_iff_NFabP_gt0": 167,
+  "n": 167
+ }
+}

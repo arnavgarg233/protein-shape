@@ -1,0 +1,20 @@
+{
+ "nf": "e3i24A1",
+ "T_star": 0.978440251572327,
+ "Tf": 1.0635220125786162,
+ "trel": 0.92,
+ "Q_native_mean": 0.8289888888888889,
+ "Q_native_p05": 0.7466666666666667,
+ "Qthr": 0.74,
+ "Gthr": 0.05,
+ "key_ij": [
+  1,
+  80
+ ],
+ "key_tail": "C",
+ "key_g0": -0.4154520782258251,
+ "entangled": false,
+ "gkey_native_sd": 0.04025318953334142,
+ "n_unfolded_starts": 108,
+ "n_close_contacts": 4
+}

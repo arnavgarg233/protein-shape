@@ -1,0 +1,14 @@
+{
+ "models_7strand": {
+  "n_Hgroups": {
+   "M1_rules": {
+    "auroc": 0.8687138488071705,
+    "n_observed": 73
+   },
+   "M2_rules_geom": {
+    "auroc": 0.9336755491174411,
+    "n_observed": 73
+   }
+  }
+ }
+}

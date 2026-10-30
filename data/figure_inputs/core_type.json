@@ -1,0 +1,56 @@
+{
+ "all_OPP_5strand": {
+  "used": 5,
+  "n_exposed": 13,
+  "ref": 32,
+  "ref_used": 26
+ },
+ "all_OPP_6strand": {
+  "used": 16,
+  "n_exposed": 113,
+  "ref": 204,
+  "ref_used": 56
+ },
+ "all_OPP_7strand": {
+  "used": 5,
+  "n_exposed": 517,
+  "ref": 854,
+  "ref_used": 44
+ },
+ "only_NF1_core_5strand": {
+  "used": 5,
+  "n_exposed": 11,
+  "ref": 32,
+  "ref_used": 26
+ },
+ "only_NF1_core_6strand": {
+  "used": 12,
+  "n_exposed": 84,
+  "ref": 204,
+  "ref_used": 56
+ },
+ "only_NF1_core_7strand": {
+  "used": 5,
+  "n_exposed": 404,
+  "ref": 854,
+  "ref_used": 44
+ },
+ "any_3142_core_5strand": {
+  "used": 0,
+  "n_exposed": 2,
+  "ref": 32,
+  "ref_used": 26
+ },
+ "any_3142_core_6strand": {
+  "used": 4,
+  "n_exposed": 29,
+  "ref": 204,
+  "ref_used": 56
+ },
+ "any_3142_core_7strand": {
+  "used": 0,
+  "n_exposed": 113,
+  "ref": 854,
+  "ref_used": 44
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "n_Hgroups": {
+  "M1_rules": {
+   "auroc": 0.8459887658353916,
+   "n_observed": 110
+  },
+  "M2_rules_geom": {
+   "auroc": 0.903663453111306,
+   "n_observed": 110
+  }
+ }
+}

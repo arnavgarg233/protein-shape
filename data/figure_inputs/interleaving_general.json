@@ -1,0 +1,633 @@
+{
+ "cells": [
+  {
+   "cell": "PP|interleaved|same_dir|face_same",
+   "relation": "interleaved",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|interleaved|same_dir|face_opp",
+   "relation": "interleaved",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|interleaved|dir_opp|face_same",
+   "relation": "interleaved",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|interleaved|dir_opp|face_opp",
+   "relation": "interleaved",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|nested_touch|same_dir|face_same",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "PP|nested_touch|same_dir|face_opp",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "PP|nested_touch|dir_opp|face_same",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "PP|nested_touch|dir_opp|face_opp",
+   "relation": "nested_touch",
+   "opportunity": 142560,
+   "opportunity_route2": 142560
+  },
+  {
+   "cell": "PP|nested_strict|same_dir|face_same",
+   "relation": "nested_strict",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|nested_strict|same_dir|face_opp",
+   "relation": "nested_strict",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|nested_strict|dir_opp|face_same",
+   "relation": "nested_strict",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|nested_strict|dir_opp|face_opp",
+   "relation": "nested_strict",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|disjoint|same_dir|face_same",
+   "relation": "disjoint",
+   "opportunity": 106380,
+   "opportunity_route2": 106380
+  },
+  {
+   "cell": "PP|disjoint|same_dir|face_opp",
+   "relation": "disjoint",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|disjoint|dir_opp|face_same",
+   "relation": "disjoint",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "PP|disjoint|dir_opp|face_opp",
+   "relation": "disjoint",
+   "opportunity": 35100,
+   "opportunity_route2": 35100
+  },
+  {
+   "cell": "HP|interleaved|same_dir|face_free",
+   "relation": "interleaved",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HP|interleaved|dir_opp|face_free",
+   "relation": "interleaved",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HP|nested_touch|same_dir|face_free",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HP|nested_touch|dir_opp|face_free",
+   "relation": "nested_touch",
+   "opportunity": 61728,
+   "opportunity_route2": 61728
+  },
+  {
+   "cell": "HP|nested_strict|same_dir|face_free",
+   "relation": "nested_strict",
+   "opportunity": 40416,
+   "opportunity_route2": 40416
+  },
+  {
+   "cell": "HP|nested_strict|dir_opp|face_free",
+   "relation": "nested_strict",
+   "opportunity": 40416,
+   "opportunity_route2": 40416
+  },
+  {
+   "cell": "HP|disjoint|same_dir|face_free",
+   "relation": "disjoint",
+   "opportunity": 142560,
+   "opportunity_route2": 142560
+  },
+  {
+   "cell": "HP|disjoint|dir_opp|face_free",
+   "relation": "disjoint",
+   "opportunity": 80832,
+   "opportunity_route2": 80832
+  },
+  {
+   "cell": "JP|interleaved|same_dir|face_free",
+   "relation": "interleaved",
+   "opportunity": 140400,
+   "opportunity_route2": 140400
+  },
+  {
+   "cell": "JP|interleaved|dir_opp|face_free",
+   "relation": "interleaved",
+   "opportunity": 140400,
+   "opportunity_route2": 140400
+  },
+  {
+   "cell": "JP|nested_touch|same_dir|face_free",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "JP|nested_touch|dir_opp|face_free",
+   "relation": "nested_touch",
+   "opportunity": 223392,
+   "opportunity_route2": 223392
+  },
+  {
+   "cell": "JP|nested_strict|same_dir|face_free",
+   "relation": "nested_strict",
+   "opportunity": 99984,
+   "opportunity_route2": 99984
+  },
+  {
+   "cell": "JP|nested_strict|dir_opp|face_free",
+   "relation": "nested_strict",
+   "opportunity": 99984,
+   "opportunity_route2": 99984
+  },
+  {
+   "cell": "JP|disjoint|same_dir|face_free",
+   "relation": "disjoint",
+   "opportunity": 140400,
+   "opportunity_route2": 140400
+  },
+  {
+   "cell": "JP|disjoint|dir_opp|face_free",
+   "relation": "disjoint",
+   "opportunity": 59568,
+   "opportunity_route2": 59568
+  },
+  {
+   "cell": "HH|interleaved|same_dir|face_free",
+   "relation": "interleaved",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HH|interleaved|dir_opp|face_free",
+   "relation": "interleaved",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HH|nested_touch|same_dir|face_free",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HH|nested_touch|dir_opp|face_free",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HH|nested_strict|same_dir|face_free",
+   "relation": "nested_strict",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HH|nested_strict|dir_opp|face_free",
+   "relation": "nested_strict",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HH|disjoint|same_dir|face_free",
+   "relation": "disjoint",
+   "opportunity": 30864,
+   "opportunity_route2": 30864
+  },
+  {
+   "cell": "HH|disjoint|dir_opp|face_free",
+   "relation": "disjoint",
+   "opportunity": 20424,
+   "opportunity_route2": 20424
+  },
+  {
+   "cell": "HJ|interleaved|same_dir|face_free",
+   "relation": "interleaved",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HJ|interleaved|dir_opp|face_free",
+   "relation": "interleaved",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HJ|nested_touch|same_dir|face_free",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "HJ|nested_touch|dir_opp|face_free",
+   "relation": "nested_touch",
+   "opportunity": 61728,
+   "opportunity_route2": 61728
+  },
+  {
+   "cell": "HJ|nested_strict|same_dir|face_free",
+   "relation": "nested_strict",
+   "opportunity": 40416,
+   "opportunity_route2": 40416
+  },
+  {
+   "cell": "HJ|nested_strict|dir_opp|face_free",
+   "relation": "nested_strict",
+   "opportunity": 40416,
+   "opportunity_route2": 40416
+  },
+  {
+   "cell": "HJ|disjoint|same_dir|face_free",
+   "relation": "disjoint",
+   "opportunity": 80832,
+   "opportunity_route2": 80832
+  },
+  {
+   "cell": "HJ|disjoint|dir_opp|face_free",
+   "relation": "disjoint",
+   "opportunity": 39984,
+   "opportunity_route2": 39984
+  },
+  {
+   "cell": "JJ|interleaved|same_dir|face_free",
+   "relation": "interleaved",
+   "opportunity": 70200,
+   "opportunity_route2": 70200
+  },
+  {
+   "cell": "JJ|interleaved|dir_opp|face_free",
+   "relation": "interleaved",
+   "opportunity": 70200,
+   "opportunity_route2": 70200
+  },
+  {
+   "cell": "JJ|nested_touch|same_dir|face_free",
+   "relation": "nested_touch",
+   "opportunity": 0,
+   "opportunity_route2": 0
+  },
+  {
+   "cell": "JJ|nested_touch|dir_opp|face_free",
+   "relation": "nested_touch",
+   "opportunity": 80832,
+   "opportunity_route2": 80832
+  },
+  {
+   "cell": "JJ|nested_strict|same_dir|face_free",
+   "relation": "nested_strict",
+   "opportunity": 29784,
+   "opportunity_route2": 29784
+  },
+  {
+   "cell": "JJ|nested_strict|dir_opp|face_free",
+   "relation": "nested_strict",
+   "opportunity": 29784,
+   "opportunity_route2": 29784
+  },
+  {
+   "cell": "JJ|disjoint|same_dir|face_free",
+   "relation": "disjoint",
+   "opportunity": 29784,
+   "opportunity_route2": 29784
+  },
+  {
+   "cell": "JJ|disjoint|dir_opp|face_free",
+   "relation": "disjoint",
+   "opportunity": 9792,
+   "opportunity_route2": 9792
+  }
+ ],
+ "enum": {
+  "n_topologies": 173760,
+  "routes_agree": true
+ },
+ "minami_rule_relations": {
+  "reproduces_published_counts": {
+   "ov_pp": 173760,
+   "ov_aa": 173760,
+   "ov_pa": 173760,
+   "ending": 173760
+  },
+  "ov_pp_equals_PP_nested_strict_face_same": 173760,
+  "by_relation": {
+   "ov_pp": {
+    "interleaved": 0,
+    "nested_touch": 0,
+    "nested_strict": 70200,
+    "disjoint": 0
+   },
+   "ov_pa": {
+    "interleaved": 40848,
+    "nested_touch": 30864,
+    "nested_strict": 19992,
+    "disjoint": 0
+   },
+   "ov_aa": {
+    "interleaved": 4152,
+    "nested_touch": 0,
+    "nested_strict": 0,
+    "disjoint": 2976
+   }
+  }
+ },
+ "readings": {
+  "composition | all 5-7-strand topologies | per-cell | PP|interleaved|same_dir|face_same": {
+   "ratio": 0.921
+  },
+  "composition | all 5-7-strand topologies | per-cell | PP|interleaved|same_dir|face_opp": {
+   "ratio": 0.386
+  },
+  "composition | all 5-7-strand topologies | per-cell | PP|interleaved|dir_opp|face_same": {
+   "ratio": 2.877
+  },
+  "composition | all 5-7-strand topologies | per-cell | PP|interleaved|dir_opp|face_opp": {
+   "ratio": 1.985
+  },
+  "composition | all 5-7-strand topologies | per-cell | JP|interleaved|same_dir|face_free": {
+   "ratio": 0.737
+  },
+  "composition | all 5-7-strand topologies | per-cell | JP|interleaved|dir_opp|face_free": {
+   "ratio": 0.794
+  },
+  "composition | all 5-7-strand topologies | per-cell | JJ|interleaved|same_dir|face_free": {
+   "ratio": 2.065
+  },
+  "composition | all 5-7-strand topologies | per-cell | JJ|interleaved|dir_opp|face_free": {
+   "ratio": 0.832
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|same_dir|face_same": {
+   "ratio": 0.955
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|same_dir|face_opp": {
+   "ratio": 0.412
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|dir_opp|face_same": {
+   "ratio": 2.01
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|dir_opp|face_opp": {
+   "ratio": 1.959
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | JP|interleaved|same_dir|face_free": {
+   "ratio": 0.85
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | JP|interleaved|dir_opp|face_free": {
+   "ratio": 0.866
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | JJ|interleaved|same_dir|face_free": {
+   "ratio": 1.839
+  },
+  "composition | alpha/beta (at least one parallel crossover) | per-cell | JJ|interleaved|dir_opp|face_free": {
+   "ratio": 0.745
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | PP|interleaved|same_dir|face_same": {
+   "ratio": 0.671
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | PP|interleaved|same_dir|face_opp": {
+   "ratio": 0.378
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | PP|interleaved|dir_opp|face_same": {
+   "ratio": 2.485
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | PP|interleaved|dir_opp|face_opp": {
+   "ratio": 2.187
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | JP|interleaved|same_dir|face_free": {
+   "ratio": 0.757
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | JP|interleaved|dir_opp|face_free": {
+   "ratio": 0.853
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | JJ|interleaved|same_dir|face_free": {
+   "ratio": 2.04
+  },
+  "composition+published rules | all 5-7-strand topologies | per-cell | JJ|interleaved|dir_opp|face_free": {
+   "ratio": 0.791
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|same_dir|face_same": {
+   "ratio": 0.672
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|same_dir|face_opp": {
+   "ratio": 0.378
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|dir_opp|face_same": {
+   "ratio": 1.77
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | PP|interleaved|dir_opp|face_opp": {
+   "ratio": 2.463
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | JP|interleaved|same_dir|face_free": {
+   "ratio": 0.905
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | JP|interleaved|dir_opp|face_free": {
+   "ratio": 0.959
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | JJ|interleaved|same_dir|face_free": {
+   "ratio": 1.881
+  },
+  "composition+published rules | alpha/beta (at least one parallel crossover) | per-cell | JJ|interleaved|dir_opp|face_free": {
+   "ratio": 0.72
+  }
+ },
+ "size": {
+  "PP|interleaved|same_dir|face_same | all | free": {
+   "null_binary_q": [
+    0.8915703693571806,
+    0.9902977746314525,
+    1.1267578925707353
+   ],
+   "size_exact_pb": 0.05,
+   "observed_binary": 0.6712144325153696,
+   "n_null": 400
+  },
+  "PP|interleaved|same_dir|face_same | all | stratified": {
+   "null_binary_q": [
+    0.774643936959242,
+    0.9162157021422805,
+    1.105985060467444
+   ],
+   "size_exact_pb": 0.2925,
+   "observed_binary": 0.6712144325153696,
+   "n_null": 400
+  },
+  "PP|interleaved|same_dir|face_opp | all | free": {
+   "null_binary_q": [
+    0.8899281130487774,
+    1.000932630822279,
+    1.1261561821007908
+   ],
+   "size_exact_pb": 0.0625,
+   "observed_binary": 0.3780318882513592,
+   "n_null": 400
+  },
+  "PP|interleaved|same_dir|face_opp | all | stratified": {
+   "null_binary_q": [
+    0.8755681648078317,
+    1.0394535204764002,
+    1.219731544264172
+   ],
+   "size_exact_pb": 0.025,
+   "observed_binary": 0.3780318882513592,
+   "n_null": 400
+  },
+  "PP|interleaved|dir_opp|face_same | all | free": {
+   "null_binary_q": [
+    0.8871431919001465,
+    0.9952192349042897,
+    1.126960473585327
+   ],
+   "size_exact_pb": 0.0725,
+   "observed_binary": 2.484840774576269,
+   "n_null": 400
+  },
+  "PP|interleaved|dir_opp|face_same | all | stratified": {
+   "null_binary_q": [
+    0.871889324472348,
+    1.0311611837862769,
+    1.2076786560305208
+   ],
+   "size_exact_pb": 0.025,
+   "observed_binary": 2.484840774576269,
+   "n_null": 400
+  },
+  "PP|interleaved|dir_opp|face_opp | all | free": {
+   "null_binary_q": [
+    0.8936662725130001,
+    1.003944772908315,
+    1.1167475921266516
+   ],
+   "size_exact_pb": 0.0525,
+   "observed_binary": 2.1866714621780114,
+   "n_null": 400
+  },
+  "PP|interleaved|dir_opp|face_opp | all | stratified": {
+   "null_binary_q": [
+    0.7485078726122423,
+    0.9112942730476019,
+    1.0887556674899623
+   ],
+   "size_exact_pb": 0.3525,
+   "observed_binary": 2.1866714621780114,
+   "n_null": 400
+  },
+  "JP|interleaved|same_dir|face_free | all | free": {
+   "null_binary_q": [
+    0.9168031542100578,
+    0.9992163784217811,
+    1.0925920963872708
+   ],
+   "size_exact_pb": 0.1275,
+   "observed_binary": 0.7574798713245567,
+   "n_null": 400
+  },
+  "JP|interleaved|same_dir|face_free | all | stratified": {
+   "null_binary_q": [
+    0.9064925169286258,
+    0.9968689033155526,
+    1.1070226835686607
+   ],
+   "size_exact_pb": 0.1075,
+   "observed_binary": 0.7574798713245567,
+   "n_null": 400
+  },
+  "JP|interleaved|dir_opp|face_free | all | free": {
+   "null_binary_q": [
+    0.9064363265872836,
+    1.0018135479599497,
+    1.101080791318592
+   ],
+   "size_exact_pb": 0.155,
+   "observed_binary": 0.8533312063363254,
+   "n_null": 400
+  },
+  "JP|interleaved|dir_opp|face_free | all | stratified": {
+   "null_binary_q": [
+    0.881171350983506,
+    1.0059069394075535,
+    1.1223294049850832
+   ],
+   "size_exact_pb": 0.15,
+   "observed_binary": 0.8533312063363254,
+   "n_null": 400
+  },
+  "JJ|interleaved|same_dir|face_free | all | free": {
+   "null_binary_q": [
+    0.9169994057864213,
+    1.0049111375367108,
+    1.1027354303059183
+   ],
+   "size_exact_pb": 0.07,
+   "observed_binary": 2.0399631787887054,
+   "n_null": 400
+  },
+  "JJ|interleaved|same_dir|face_free | all | stratified": {
+   "null_binary_q": [
+    0.9203271234115002,
+    1.0387728727007048,
+    1.192081255395743
+   ],
+   "size_exact_pb": 0.05,
+   "observed_binary": 2.0399631787887054,
+   "n_null": 400
+  },
+  "JJ|interleaved|dir_opp|face_free | all | free": {
+   "null_binary_q": [
+    0.9188007360453051,
+    1.0054567265456393,
+    1.102718077687805
+   ],
+   "size_exact_pb": 0.0625,
+   "observed_binary": 0.7906297615989301,
+   "n_null": 400
+  },
+  "JJ|interleaved|dir_opp|face_free | all | stratified": {
+   "null_binary_q": [
+    0.9106630480355095,
+    1.0237516519760042,
+    1.1923837718566839
+   ],
+   "size_exact_pb": 0.065,
+   "observed_binary": 0.7906297615989301,
+   "n_null": 400
+  }
+ }
+}

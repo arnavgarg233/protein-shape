@@ -1,0 +1,20 @@
+{
+ "nf": "e4chiA2",
+ "T_star": 0.9933685534591197,
+ "Tf": 1.079748427672956,
+ "trel": 0.92,
+ "Q_native_mean": 0.7755710955710956,
+ "Q_native_p05": 0.6853146853146853,
+ "Qthr": 0.69,
+ "Gthr": 0.05,
+ "key_ij": [
+  32,
+  102
+ ],
+ "key_tail": "N",
+ "key_g0": -0.46018804308660943,
+ "entangled": false,
+ "gkey_native_sd": 0.04246475704246475,
+ "n_unfolded_starts": 108,
+ "n_close_contacts": 4
+}

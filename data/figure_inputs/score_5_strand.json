@@ -1,0 +1,14 @@
+{
+ "test_5strand": {
+  "n_Hgroups": {
+   "M1_rules": {
+    "auroc": 0.8018465412324265,
+    "n_observed": 119
+   },
+   "M2_rules_geom": {
+    "auroc": 0.8623937089699137,
+    "n_observed": 119
+   }
+  }
+ }
+}

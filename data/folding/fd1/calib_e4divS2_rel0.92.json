@@ -1,0 +1,20 @@
+{
+ "nf": "e4divS2",
+ "T_star": 0.9635119496855347,
+ "Tf": 1.0472955974842768,
+ "trel": 0.92,
+ "Q_native_mean": 0.7970952380952381,
+ "Q_native_p05": 0.6569047619047619,
+ "Qthr": 0.71,
+ "Gthr": 0.05,
+ "key_ij": [
+  29,
+  91
+ ],
+ "key_tail": "N",
+ "key_g0": -0.21142099853734636,
+ "entangled": false,
+ "gkey_native_sd": 0.04041323479388185,
+ "n_unfolded_starts": 108,
+ "n_close_contacts": 14
+}

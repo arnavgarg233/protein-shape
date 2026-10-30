@@ -1,0 +1,20 @@
+{
+ "nf": "e3f53A1",
+ "T_star": 1.0232251572327045,
+ "Tf": 1.1122012578616352,
+ "trel": 0.92,
+ "Q_native_mean": 0.7627185792349728,
+ "Q_native_p05": 0.6432377049180328,
+ "Qthr": 0.68,
+ "Gthr": 0.05,
+ "key_ij": [
+  47,
+  68
+ ],
+ "key_tail": "C",
+ "key_g0": -1.299011933877539,
+ "entangled": true,
+ "gkey_native_sd": 0.10031314147998063,
+ "n_unfolded_starts": 108,
+ "n_close_contacts": 4
+}

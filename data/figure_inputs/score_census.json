@@ -1,0 +1,44 @@
+{
+ "5": {
+  "n": 960,
+  "afdb_used": 260,
+  "ecod_observed": 119,
+  "M1_rules": {
+   "auroc_ecod": 0.8018465412324265,
+   "auroc_afdb": 0.8080219780219781
+  },
+  "M2_rules_geom": {
+   "auroc_ecod": 0.8623937089699137,
+   "auroc_afdb": 0.8702774725274726,
+   "auroc_afdb_among_ecod_unobserved": 0.8341051616015436
+  }
+ },
+ "6": {
+  "n": 11520,
+  "afdb_used": 389,
+  "ecod_observed": 110,
+  "M1_rules": {
+   "auroc_ecod": 0.8459887658353916,
+   "auroc_afdb": 0.8281987196645512
+  },
+  "M2_rules_geom": {
+   "auroc_ecod": 0.903663453111306,
+   "auroc_afdb": 0.8868939636610876,
+   "auroc_afdb_among_ecod_unobserved": 0.8731025969205605
+  }
+ },
+ "7": {
+  "n": 161280,
+  "afdb_used": 344,
+  "ecod_observed": 73,
+  "M1_rules": {
+   "auroc_ecod": 0.8687138488071705,
+   "auroc_afdb": 0.8463263166291151
+  },
+  "M2_rules_geom": {
+   "auroc_ecod": 0.9336755491174411,
+   "auroc_afdb": 0.8998769354075171,
+   "auroc_afdb_among_ecod_unobserved": 0.8907325127901328
+  }
+ }
+}
